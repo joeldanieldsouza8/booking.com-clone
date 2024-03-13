@@ -1,0 +1,1 @@
+curl 'https://realtime.oxylabs.io/v1/queries' --user 'joeldsouza8:Man_united2003' -H 'Content-Type: application/json' -d '{"source": "universal", "url": "https://sandbox.oxylabs.io/products/", "geo_location": "United States"}' 
